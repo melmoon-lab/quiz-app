@@ -45,3 +45,7 @@ quiz-app/
 - 外部ライブラリ・フレームワークは使用しない（バニラJS のみ）
 - `package.json` は不要（Node.js 環境に依存しない）
 - ブラウザで直接 `index.html` を開けば動作する構成にすること
+
+## GitHubリポジトリ
+
+https://github.com/melmoon-lab/quiz-app
